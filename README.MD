@@ -1,5 +1,7 @@
 # Web Design Challenge
 
+
+
 .	The repository contains the WebVisualization folders, within the Webvisualization folders is the CSV file with about 500 cities.
 .	Created a visualization dashboard website using climate visualization plots.
 .	Created pages that contain the visualization plots & explanations
@@ -7,6 +9,8 @@
 
 
 # HTMLs Created
+
+
 
 .	clouds - contains the html code to create the cloudiness plot page
 .	index - contains the html code to create the home (landing page)
